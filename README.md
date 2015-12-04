@@ -16,8 +16,12 @@ After properly installing the requirements, you can run the project by issuing
 
     $ make run
     
-on the commandline
+on the commandline in the project directory. Alternatively, you can run
 
+    go generate
+    go build
+    python writer.py
+    ./ProtoBufDemo
 
 
 
