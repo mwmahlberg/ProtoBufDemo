@@ -1,0 +1,11 @@
+syntax = "proto2";
+package main;
+
+message Demo {
+	 required uint32  A = 1;
+	 required uint32 B = 2;
+
+	// A shortcomning: no 16 bit ints
+	// We need to make this sure in the applications
+	 required uint32 C = 3;
+}
