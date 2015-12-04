@@ -2,7 +2,10 @@ import data_pb2
 
 def main():
 
+    # We create an instance of the message type "Demo"...
     data = data_pb2.Demo()
+    
+    # ...and fill it with data
     data.A = long(5)
     data.B = long(5)
     data.C = long(2015)
