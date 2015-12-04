@@ -13,6 +13,9 @@ def main():
     
     print "* Python writing to file"
     f = open('tst.bin', 'wb')
+    
+    # Note that "data.SerializeToString()" counterintuitively
+    # writes binary data
     f.write(data.SerializeToString())
     f.close()
     
