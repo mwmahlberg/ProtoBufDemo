@@ -1,3 +1,6 @@
+# Note
+This repository is unmaintained. It was set up to provide a code example for an answer to a question on StackOverflow.
+
 ## Protocol Buffer Demo
 
 This demo was written as part of an answer to the question [How to read packed binary data in Go?][so:q] on Stackoverflow. 
