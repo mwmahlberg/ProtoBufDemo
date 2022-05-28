@@ -1,5 +1,4 @@
-# Note
-This repository is unmaintained. It was set up to provide a code example for an answer to a question on StackOverflow.
+[![Stability: Unsupported](https://masterminds.github.io/stability/unsupported.svg)](https://masterminds.github.io/stability/unsupported.html)
 
 ## Protocol Buffer Demo
 
